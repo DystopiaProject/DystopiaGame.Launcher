@@ -1,5 +1,5 @@
 {
-  "AppVersion": 1000,
-  "PatchNotes": "Initial pre-alpha release",
-  "BuildTimestamp": "1531347121"
+  "AppVersion": 1001,
+  "PatchNotes": "Improved instances handling.",
+  "BuildTimestamp": "1531567874"
 }
