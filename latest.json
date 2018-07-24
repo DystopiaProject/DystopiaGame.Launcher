@@ -1,5 +1,5 @@
 {
   "AppVersion": 1001,
-  "PatchNotes": "Fixed numerous bugs with the instances.\nFixed bugs relating to the CefSharp browser component\nImproved logging\nImproved duplicate checking\nAdded Clear downloads button\nAdded custom browser subprocess",
+  "PatchNotes": "Fixed numerous bugs with the instances.\r\nFixed bugs relating to the CefSharp browser component\r\nImproved logging\r\nImproved duplicate checking\r\nAdded Clear downloads button\r\nAdded custom browser subprocess",
   "BuildTimestamp": "1532431640"
 }
