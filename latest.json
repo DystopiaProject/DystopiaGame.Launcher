@@ -1,5 +1,5 @@
 {
-  "AppVersion": 1001,
-  "PatchNotes": "Fixed numerous bugs with the instances.\r\nFixed bugs relating to the CefSharp browser component\r\nImproved logging\r\nImproved duplicate checking\r\nAdded Clear downloads button\r\nAdded custom browser subprocess",
-  "BuildTimestamp": "1532431640"
+  "AppVersion": 1010,
+  "PatchNotes": "Fixed a major bug with the instance selector on the main window.\r\nAdded window flashing when an extraction or download is complete.\r\n(The last release was supposed to bb build 1010 due to the amount of changes 1001 went through, so this version is being released in place.",
+  "BuildTimestamp": "1532779259"
 }
